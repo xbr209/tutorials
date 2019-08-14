@@ -3,4 +3,4 @@ matplotlib==3.*
 seaborn==0.8.1
 pandas
 plotly
-RUN pip install python-igraph
+python-igraph
