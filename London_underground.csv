@@ -5,6 +5,7 @@ Angel,0,0,0,0,0,0,0,1,0,0,0
 Baker Street,1,0,1,0,1,1,1,0,0,0,0
 Bank,0,1,0,0,0,0,0,1,0,0,1
 Barbican,0,0,1,0,1,0,1,0,0,0,0
+Battersea Power Station,0,0,0,0,0,0,0,1,0,0,0
 Bayswater,0,0,1,1,0,0,0,0,0,0,0
 Blackfriars,0,0,1,0,0,0,0,0,0,0,0
 Bond Street,0,1,0,0,0,1,0,0,0,0,0
@@ -28,6 +29,7 @@ Green Park,0,0,0,0,0,1,0,0,1,1,0
 High Street Kensington,0,0,1,1,0,0,0,0,0,0,0
 Holborn,0,1,0,0,0,0,0,0,1,0,0
 Hyde Park Corner,0,0,0,0,0,0,0,0,1,0,0
+Kennington,0,0,0,0,0,0,0,1,0,0,0
 King's Cross St Pancras,0,0,1,0,1,0,1,1,1,1,0
 Knightsbridge,0,0,0,0,0,0,0,0,1,0,0
 Lambeth North,1,0,0,0,0,0,0,0,0,0,0
@@ -40,6 +42,7 @@ Marble Arch,0,1,0,0,0,0,0,0,0,0,0
 Marylebone,1,0,0,0,0,0,0,0,0,0,0
 Monument,0,0,1,1,0,0,0,0,0,0,0
 Moorgate,0,0,1,0,1,0,1,1,0,0,0
+Nine Elms,0,0,0,0,0,0,0,1,0,0,0
 Notting Hill Gate,0,1,1,1,0,0,0,0,0,0,0
 Old Street,0,0,0,0,0,0,0,1,0,0,0
 Oxford Circus,1,1,0,0,0,0,0,0,0,1,0
